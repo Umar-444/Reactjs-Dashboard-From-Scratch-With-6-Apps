@@ -1,8 +1,8 @@
-import React from 'react'
-
+import React from 'react';
+import "./App.css"
 const App = () => {
   return (
-    <div>App</div>
+    <h1 class="underline text-3xl">This is My First React App</h1>
   )
 }
 

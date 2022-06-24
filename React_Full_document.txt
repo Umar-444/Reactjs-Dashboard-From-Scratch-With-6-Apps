@@ -2,4 +2,7 @@ REACT PROJECT NEED
 
 make a folder.
 npx create-react-app ./           ( Run this in terminal for creating new React Project )
-delete Src file and make another One a new Src folder and make a file Named index.js and App.js file inside the Src folder
+delete Src file and make another Src folder and make a file Named index.js and App.js file inside the Src folder
+import nessacceary libraries and files in these 2 files
+in App.js we use a shortCut "rafce" raeact arrow export componemts
+now instasll all the nessacerry Dependencies 
